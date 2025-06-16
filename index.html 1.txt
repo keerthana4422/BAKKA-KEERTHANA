@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+  <title>Kirtana's Website</title>
   <style>
-    body { background-color: #f2f2f2; font-family: Arial, sans-serif; text-align: center; }
+    body { background-color: #f0f8ff; font-family: Arial; text-align: center; padding: 30px; }
     h1 { color: #2c3e50; }
-    p { color: #333; }
+    footer { margin-top: 50px; color: gray; }
   </style>
 </head>
 <body>
-  <h1>Hello, I'm Keertana!</h1>
-  <p>Welcome to my personal website.</p>
+  <h1>Hi, I'm Kirtana 👋</h1>
+  <p>Welcome to my personal website, hosted free with GitHub Pages.</p>
+
+  <h3>📧 Contact Me</h3>
+  <p>Email: <a href="mailto:kirtana@example.com">kirtana@example.com</a></p>
+
+  <footer>
+    <p>© 2025 Kirtana</p>
+  </footer>
 </body>
 </html>
+
